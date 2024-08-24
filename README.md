@@ -9,3 +9,7 @@ Identify the ESP Address, it must be a code like A0:A3:B3:89:25:A6. And run the 
 sudo rfcomm bind /dev/rfcomm0 A0:A3:B3:89:25:A6
 ```
 
+## Dependecies for using IMU
+
+Install the library https://github.com/ElectronicCats/mpu6050
+
