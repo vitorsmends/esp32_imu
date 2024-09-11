@@ -48,7 +48,8 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais info
 ## Construção e Uso do Docker
 
 Para facilitar o uso e a execução do pacote `esp32_imu` em diferentes ambientes, você pode criar uma imagem Docker que contém todas as dependências necessárias. 
-Siga as instruções abaixo para construir e usar a imagem Docker (antes disso é necessário instalar o docker engine, [clique aqui para acessar o tutorial de instalação]([https://duckduckgo.com](https://docs.docker.com/engine/install/ubuntu/)).):
+Siga as instruções abaixo para construir e usar a imagem Docker (antes disso é necessário instalar o docker engine, 
+[clique aqui para acessar o manual de instalação](https://docs.docker.com/engine/install/ubuntu/).):
 
 ### Passo 1: Construir a Imagem Docker
 
